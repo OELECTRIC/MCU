@@ -1,0 +1,1 @@
+Connected the LED to PA5 with resistor 330ohm.
