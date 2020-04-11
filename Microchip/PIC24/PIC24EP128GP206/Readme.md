@@ -1,6 +1,6 @@
 © OELECTRIC
 ===============================================================================
-This firmware dedicated to test output portB of PIC24EP128GP206  
+This firmware dedicated to testing output port of PIC24EP128GP206.  
 Use INTOSC FRC 7.477 MHz ( Not require Ext. crystal for this test)  
 Test circuit is below.  
 
