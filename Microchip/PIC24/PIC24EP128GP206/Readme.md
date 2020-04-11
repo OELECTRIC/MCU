@@ -2,14 +2,16 @@
 ===============================================================================
 This firmware dedicated to test output portB of PIC24EP128GP206
 Use INTOSC FRC 7.477 MHz
-The output will show as below.
+Test circuit is below.
 
-![Test result](https://github.com/OELECTRIC/MCU/blob/master/STmicro/STM32F072RBT6/01_Quicktest/pic/MakeGIP.gif)
+![Test Circuit](https://github.com/OELECTRIC/MCU/blob/master/Microchip/PIC24/PIC24EP128GP206/pic/PIC24_Test1.JPG)
 
-To upload firmware to STM32F072RBT6 by using UART protocall. The schematic is below.
+1.)To upload hex.
+  1.) Connect LED,R330 Ohm to port B0-B7.
+  2.)Use MPLAB X IPE to upload the HEX file to MCU via PICKIT3.
+  3.)Press reset botton the see the result.
 
-![Upload Circuit](https://github.com/OELECTRIC/MCU/blob/master/STmicro/STM32F072RBT6/01_Quicktest/pic/pic1_PGM.jpg)
+2. Problem.
+  1.) If PICKIT3 can't detect the MCU please check the ICSP connection and CCAP, CCORE should be 10uF according to datasheet.
+  2.) Program problem : Check the wire connection.
 
-The test circuit is below.
-
-![LED Test result](https://github.com/OELECTRIC/MCU/blob/master/STmicro/STM32F072RBT6/01_Quicktest/pic/pic2_run.jpg)
