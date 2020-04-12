@@ -4,11 +4,11 @@
 ATtiny13A is high-performance, low-power Microchip 8-bit AVR RISC-based microcontroller  
 For more detail click [here](https://www.microchip.com/wwwproducts/en/ATtiny13)  
 ## The test circuit
-    *  Conenct the resistor 330 ohm and LED to each pin for test.
+    *  Conenct the resistor 1k ohm and LED to each pin for test.
     
 ## Programmer.
 *Use AVR ISP mkII to program the IC*
-*Please make sure the Fuse bir is correct*  
+*Please make sure the Fuse bit is correct*  
 ![AVR Programmer](https://github.com/OELECTRIC/MCU/blob/master/Microchip/ATtiny13A/01_OutputTest/Picture/Pic01.JPG) 
 
 
