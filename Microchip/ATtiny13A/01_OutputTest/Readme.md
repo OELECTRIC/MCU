@@ -8,7 +8,8 @@ For more detail click [here](https://www.microchip.com/wwwproducts/en/ATtiny13)
     
 ## Programmer.
 *Use AVR ISP mkII to program the IC*
-*Please make sure the Fuse bir is correct*
+*Please make sure the Fuse bir is correct*  
+![AVR Programmer](https://github.com/OELECTRIC/MCU/blob/master/Microchip/ATtiny13A/01_OutputTest/Picture/Pic01.JPG) 
 
 
 
