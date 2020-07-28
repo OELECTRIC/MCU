@@ -8,7 +8,9 @@
 ## The test firmware will use a High-speed internal oscillator (HIS) 16MHz, Not required external crystal for the device for this testing.
 
 ### 01_Blink.bin
-          Connected the LED with Resistor 330 or 1K to PB0. The LED will on/off 500ms.
+Connected the LED with Resistor 330 or 1K to PB0. The LED will on/off 500ms.
+![Alt text](https://github.com/OELECTRIC/MCU/blob/master/STmicro/STM32F429ZGT6/Test_Firmware/Picture/01_Blink.SVG)
+
 ### 02_UART_9600.bin
 	Use PC11 as TX and PC12 as RX. Connect the USB to UART converter to these ports then set baud as 9600. The number will count without delay time.
  
