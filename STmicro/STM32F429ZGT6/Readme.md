@@ -1,4 +1,5 @@
 # STM32F429ZGT6
+# (C) OELECTRIC , Free for use by any reason.
 
 ![Alt text](https://img.directindustry.com/images_di/photo-mg/33699-12766624.jpg)
 ![Alt text](https://github.com/OELECTRIC/MCU/blob/master/STmicro/STM32F429ZGT6/Test_Firmware/Picture/ARM.png)
