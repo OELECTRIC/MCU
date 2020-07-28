@@ -37,6 +37,7 @@ No need for an external crystal for the test. (If the crystal has been installed
 Connect Variable resistor to “RA0” (AN0) and set baud to 115200 to receive ADC value
 ### 4.2ADC27.hex
 Connect Variable resistor to “RD7” (AN27) and set baud to 115200 to receive ADC value
+
 ![Alt text](https://github.com/OELECTRIC/MCU/blob/master/Microchip/PIC18/PIC18F46K22/Test_Firmware/Picture/041.png)
 
 ## 5.LCD I2C (5.LCD_I2C.hex)
@@ -44,4 +45,6 @@ This firmware will display the 10 bits (0-1023) ADC value read from RA0 and disp
 Connect the SDA to RB0 and SCL to RB1
 
 ![Alt text](https://github.com/OELECTRIC/MCU/blob/master/Microchip/PIC18/PIC18F46K22/Test_Firmware/Picture/05_LCDI2C.SVG)
+
+#### Updated on 07/29/2020 
 
