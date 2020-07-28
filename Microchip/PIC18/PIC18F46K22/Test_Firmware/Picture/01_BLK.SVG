@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by OELECTRIC-->
+<svg version="1.1" baseProfile="full"
+xmlns="http://www.w3.org/2000/svg"
+width="550" height="510">
+<title>01_BLK</title>
+<defs>
+<style type="text/css">
+<![CDATA[
+polyline {stroke-linecap:round; stroke-linejoin:round}
+polygon {stroke-linecap:round; stroke-linejoin:round}
+path {stroke-linecap:round; stroke-linejoin:round}
+circle {stroke-linecap:round; stroke-linejoin:round}
+]]>
+</style>
+</defs>
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="6" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 40 40 L 302 40 302 470 40 470 40 40" />
+<text x="60.00" y="102.00" font-family ="Arial" font-size ="28pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">PIC18F46K22</text>
+<text x="180.00" y="294.00" font-family ="Arial" font-size ="21pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">RA0:RB0</text>
+<polyline points="490.00 370.00 490.00 300.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="490 347 474 323 506 323" fill="rgb(128,255,0)" stroke="rgb(0,255,0)" stroke-width="1" />
+<path fill="rgb(0,255,64)" stroke="none" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 474 347 L 506 347 506 348 474 348 474 347" />
+<polyline points="465.89 338.11 458.11 330.33" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="455 327 460 337 464 332" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<polyline points="472.11 331.89 464.33 324.11" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="461 321 466 330 471 326" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="513.33" y="350.00" font-family ="ARIAL" font-size ="13pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)"></text>
+<polyline points="340.00 290.00 365.00 290.00 370.00 275.00 380.00 305.00 390.00 275.00 400.00 305.00 410.00 275.00 415.00 290.00 440.00 290.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="490.00 400.00 490.00 430.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="470.00 430.00 510.00 430.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="480.00 440.00 500.00 440.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="485.00 450.00 490.00 450.00 495.00 450.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="340.00 290.00 300.00 290.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="440.00 290.00 490.00 290.00 490.00 300.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="490.00 370.00 490.00 400.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="380.00" y="266.00" font-family ="Lato" font-size ="14pt" font-weight="bold" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">1K</text>
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by OELECTRIC-->
+<svg version="1.1" baseProfile="full"
+xmlns="http://www.w3.org/2000/svg"
+width="784" height="420">
+<title>04_ADC_UART</title>
+<defs>
+<style type="text/css">
+<![CDATA[
+polyline {stroke-linecap:round; stroke-linejoin:round}
+polygon {stroke-linecap:round; stroke-linejoin:round}
+path {stroke-linecap:round; stroke-linejoin:round}
+circle {stroke-linecap:round; stroke-linejoin:round}
+]]>
+</style>
+</defs>
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="6" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 310 40 L 572 40 572 380 310 380 310 40" />
+<text x="330.00" y="92.00" font-family ="Arial" font-size ="28pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">PIC18F46K22</text>
+<path fill="none" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 120 190 L 225 190 225 245 120 245 120 190" />
+<text x="140.00" y="182.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">USB to UART</text>
+<polyline points="305.00 230.00 230.00 230.00 230.00 230.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="284.60 235.40 305.00 230.00 284.60 224.60" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="230.00 210.00 305.00 210.00 305.00 210.00" fill="none" stroke="rgb(0,128,255)" stroke-width="2" />
+<polygon points="250.40 204.60 230.00 210.00 250.40 215.40" fill="rgb(0,128,255)" stroke="rgb(0,128,255)" stroke-width="2" />
+<polyline points="50.00 220.00 115.00 220.00 110.00 220.00" fill="none" stroke="rgb(0,128,255)" stroke-width="2" />
+<polygon points="70.40 214.60 50.00 220.00 70.40 225.40" fill="rgb(0,128,255)" stroke="rgb(0,128,255)" stroke-width="2" />
+<text x="40.00" y="212.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(0,0,255)" transform=" rotate(0.000) scale(1.000,1.000)">To computer</text>
+<text x="320.00" y="212.00" font-family ="Arial" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">RC6(TX)</text>
+<text x="320.00" y="232.00" font-family ="Arial" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">RC7(RX)</text>
+<text x="200.00" y="212.00" font-family ="Arial" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(0,0,255)" transform=" rotate(0.000) scale(1.000,1.000)">RX</text>
+<text x="200.00" y="232.00" font-family ="Arial" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(0,0,255)" transform=" rotate(0.000) scale(1.000,1.000)">TX</text>
+<polyline points="690.00 180.00 690.00 205.00 675.00 210.00 705.00 220.00 675.00 230.00 705.00 240.00 675.00 250.00 690.00 255.00 690.00 280.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="666.00 230.00 640.00 230.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="670 230 658 226 658 234" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="710.00" y="249.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">10k</text>
+<polygon points="690 120 701 139 679 139" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<text x="675.00" y="117.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">VCC</text>
+<polyline points="690.00 290.00 690.00 280.00 690.00 315.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="670.00 315.00 710.00 315.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="680.00 325.00 700.00 325.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="685.00 335.00 695.00 335.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="690.00 180.00 690.00 137.47" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<polyline points="570.00 230.00 640.00 230.00 630.00 230.00" fill="none" stroke="rgb(0,128,255)" stroke-width="2" />
+<polygon points="590.40 224.60 570.00 230.00 590.40 235.40" fill="rgb(0,128,255)" stroke="rgb(0,128,255)" stroke-width="2" />
+<text x="460.00" y="222.00" font-family ="Arial" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(0,255,0)" transform=" rotate(0.000) scale(1.000,1.000)">RA0 ( ADC0) or </text>
+<text x="460.00" y="237.00" font-family ="Arial" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(0,255,0)" transform=" rotate(0.000) scale(1.000,1.000)">RD7 ( ADC27)</text>
+</svg>
