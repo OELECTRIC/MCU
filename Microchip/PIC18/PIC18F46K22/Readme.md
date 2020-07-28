@@ -46,5 +46,5 @@ Connect the SDA to RB0 and SCL to RB1
 
 ![Alt text](https://github.com/OELECTRIC/MCU/blob/master/Microchip/PIC18/PIC18F46K22/Test_Firmware/Picture/05_LCDI2C.SVG)
 
-#### Updated on 07/29/2020 
+#### Updated on 07/28/2020 
 
