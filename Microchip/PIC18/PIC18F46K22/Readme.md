@@ -7,8 +7,17 @@ No need for an external crystal for the test. (If the crystal has been installed
 ## 1.Blink
 ![Alt text](https://github.com/OELECTRIC/MCU/blob/master/Microchip/PIC18/PIC18F46K22/Test_Firmware/Picture/01_BLK.SVG)
 
-1.1Blink_INT_A0.hex
+### 1.1Blink_INT_A0.hex
      To blink LED connected to RA0. 0.5ms On and 0.5ms Off.
 
-1.2Blink_INT_B0.hex
+### 1.2Blink_INT_B0.hex
     To blink LED connected to RB0. 0.5ms On and 0.5ms Off.
+
+## 2.Interupt
+![Alt text](https://github.com/OELECTRIC/MCU/blob/master/Microchip/PIC18/PIC18F46K22/Test_Firmware/Picture/02_INT.SVG)
+
+	2.1Interupt_RB0.hex   
+	Connect RB0 to pull-up Switch and connected RA0 to LED.    
+	If no interrupt (SW not pushed) the LED will blink on/off = 500ms.     
+              If interrupt occurred (SW was pushed) the LED will blink on/off = 100ms. 10 times.    
+
