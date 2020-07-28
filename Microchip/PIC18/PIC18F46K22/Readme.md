@@ -19,5 +19,12 @@ No need for an external crystal for the test. (If the crystal has been installed
 ### 2.1Interupt_RB0.hex   
  Connect RB0 to pull-up Switch and connected RA0 to LED.    
  If no interrupt (SW not pushed) the LED will blink on/off = 500ms.     
- If interrupt occurred (SW was pushed) the LED will blink on/off = 100ms. 10 times.    
+ If interrupt occurred (SW was pushed) the LED will blink on/off = 100ms. 10 times.   
+ 
+## 3.UART Function
+![Alt text](https://github.com/OELECTRIC/MCU/blob/master/Microchip/PIC18/PIC18F46K22/Test_Firmware/Picture/03_UART.SVG)
+
+	3.UART.hex
+	This firmware will be running the number without delay time with Baud rate = 115200.
+     Use RC6 as TX and RC7 as RX. Connect to the USB to UART converter and use Arduino serial port monitor to display the value.
 
