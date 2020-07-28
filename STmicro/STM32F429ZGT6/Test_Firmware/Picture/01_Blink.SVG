@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with "sPlan" (http://www.abacom-online.de) -->
+<svg version="1.1" baseProfile="full"
+xmlns="http://www.w3.org/2000/svg"
+width="455" height="285">
+<title>01_Blink</title>
+<defs>
+<style type="text/css">
+<![CDATA[
+polyline {stroke-linecap:round; stroke-linejoin:round}
+polygon {stroke-linecap:round; stroke-linejoin:round}
+path {stroke-linecap:round; stroke-linejoin:round}
+circle {stroke-linecap:round; stroke-linejoin:round}
+]]>
+</style>
+</defs>
+<circle cx="349.63" cy="150.00" r="22.50" fill="rgb(0,255,0)" stroke="none" stroke-width="2" />
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 40 40 L 244 40 244 240 40 240 40 40" />
+<polygon points="358 150 344 159 344 141" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="372.13 150.00 330.00 150.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 358 141 L 359 141 359 159 358 159 358 141" />
+<polyline points="352.94 135.02 348.26 130.34" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="346 128 352 131 349 134" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<polyline points="349.19 138.77 344.51 134.09" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="343 132 348 135 345 138" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="344.04" y="179.60" font-family ="ARIAL" font-size ="7pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)"></text>
+<polyline points="260.00 150.00 273.12 150.00 275.74 142.13 280.99 157.87 286.24 142.13 291.48 157.87 296.73 142.13 299.35 150.00 312.47 150.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="270.00" y="170.00" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">330R</text>
+<text x="77.00" y="83.00" font-family ="Lato" font-size ="21pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">STM32F429</text>
+<text x="215.00" y="152.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">PB0</text>
+<polyline points="260.00 150.00 245.00 150.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="312.47 150.00 330.00 150.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="372.13 150.00 395.00 150.00 395.00 225.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="375.00 225.00 415.00 225.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="385.00 235.00 405.00 235.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="390.00 245.00 400.00 245.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+</svg>

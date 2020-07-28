@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with "sPlan" (http://www.abacom-online.de) -->
+<svg version="1.1" baseProfile="full"
+xmlns="http://www.w3.org/2000/svg"
+width="905" height="385">
+<title>04_ADC</title>
+<defs>
+<style type="text/css">
+<![CDATA[
+polyline {stroke-linecap:round; stroke-linejoin:round}
+polygon {stroke-linecap:round; stroke-linejoin:round}
+path {stroke-linecap:round; stroke-linejoin:round}
+circle {stroke-linecap:round; stroke-linejoin:round}
+]]>
+</style>
+</defs>
+<path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="2" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 199 110 L 404 110 404 310 199 310 199 110" />
+<text x="239.32" y="155.00" font-family ="Lato" font-size ="21pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">STM32F429</text>
+<text x="334.32" y="192.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(0,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">PD5_SCL</text>
+<text x="334.32" y="212.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(0,255,0)" transform=" rotate(0.000) scale(1.000,1.000)">PD4_SDA</text>
+<path fill="rgb(0,0,255)" stroke="rgb(0,0,0)" stroke-width="5" style="stroke-linecap:square; stroke-linejoin:miter" d=" M 544 170 L 865 170 865 285 544 285 544 170" />
+<polyline points="544.32 270.00 509.32 270.00 509.32 305.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="489.32 305.00 529.32 305.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="499.32 315.00 519.32 315.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="504.32 325.00 514.32 325.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="544.32 190.00 404.32 190.00" fill="none" stroke="rgb(0,0,255)" stroke-width="2" />
+<polyline points="544.32 215.00 404.32 215.00" fill="none" stroke="rgb(0,255,64)" stroke-width="2" />
+<polyline points="544.32 240.00 494.32 240.00" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<text x="449.32" y="242.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">+5VDC</text>
+<text x="559.32" y="197.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">SCL</text>
+<text x="559.32" y="212.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">SDA</text>
+<text x="649.32" y="220.00" font-family ="Lato" font-size ="21pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">LCD 16X2</text>
+<text x="659.32" y="250.00" font-family ="Lato" font-size ="21pt" font-weight="bold" font-style="normal" fill="rgb(255,255,255)" transform=" rotate(0.000) scale(1.000,1.000)">or 20X4</text>
+<text x="189.32" y="327.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">Note : Be careful with difference voltage</text>
+<text x="234.32" y="342.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">of STM32 and LCD I2C</text>
+<polyline points="434.32 170.00 434.32 156.88 426.45 154.26 442.19 149.01 426.45 143.76 442.19 138.52 426.45 133.27 434.32 130.65 434.32 117.53" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="-160.00" y="454.32" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(1.000,1.000)">10K</text>
+<polyline points="464.32 170.00 464.32 156.88 456.45 154.26 472.19 149.01 456.45 143.76 472.19 138.52 456.45 133.27 464.32 130.65 464.32 117.53" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<text x="-160.00" y="484.32" font-family ="ARIAL" font-size ="9pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(-90.000) scale(1.000,1.000)">10K</text>
+<polygon points="434 55 445 74 423 74" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<polyline points="434.32 117.53 434.32 75.00" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<polyline points="464.32 117.53 464.32 95.00 434.32 95.00" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<polyline points="434.32 170.00 434.32 190.00" fill="none" stroke="rgb(0,0,255)" stroke-width="2" />
+<polyline points="464.32 170.00 464.32 215.00" fill="none" stroke="rgb(0,255,0)" stroke-width="2" />
+<text x="419.32" y="52.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">3.3V</text>
+<polyline points="94.32 170.00 94.32 195.00 109.32 200.00 79.32 210.00 109.32 220.00 79.32 230.00 109.32 240.00 94.32 245.00 94.32 270.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="118.32 220.00 144.32 220.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polygon points="114 220 126 216 126 224" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" />
+<text x="40.00" y="239.00" font-family ="ARIAL" font-size ="17pt" font-weight="normal" font-style="normal" fill="rgb(0,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">10k</text>
+<polygon points="94 110 105 129 83 129" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<text x="79.32" y="107.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(255,0,0)" transform=" rotate(0.000) scale(1.000,1.000)">3.3V</text>
+<polyline points="94.32 280.00 94.32 270.00 94.32 305.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="74.32 305.00 114.32 305.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="84.32 315.00 104.32 315.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="89.32 325.00 99.32 325.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="144.32 220.00 199.32 220.00" fill="none" stroke="rgb(0,0,0)" stroke-width="2" />
+<polyline points="94.32 170.00 94.32 127.47" fill="none" stroke="rgb(255,0,0)" stroke-width="2" />
+<text x="209.32" y="222.00" font-family ="Lato" font-size ="10pt" font-weight="bold" font-style="normal" fill="rgb(192,192,192)" transform=" rotate(0.000) scale(1.000,1.000)">PA5(ADC5)</text>
+</svg>
