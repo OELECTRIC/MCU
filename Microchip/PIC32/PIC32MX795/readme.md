@@ -1,4 +1,5 @@
-# **This firmware for test output portB0 of PIC32MX795F512H**
+# **This firmware for test PIC32MX795F512H**
+_Free for Microchip Custommer_
 
 ![PIC32MX795F512H](https://www.microchip.com/_images/products/medium/3bbb2704c69c03b8724795f28aace466.png)
 
